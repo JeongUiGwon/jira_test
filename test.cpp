@@ -8,6 +8,7 @@ int main() {
     cout.tie(NULL);
 
     cout << "Hello World";
+    asdfasdf;
 
     return 0;
 }
